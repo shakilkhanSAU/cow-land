@@ -9,7 +9,7 @@ body {
 }
 
 .nav-back {
-    background-color: darkolivegreen;
+    background-color: crimson;
 }
 
 .my-name {
@@ -19,5 +19,4 @@ body {
 .my-name a {
     text-decoration: none;
     color: crimson;
-    transition: all .4s ease;
 }
