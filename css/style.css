@@ -11,3 +11,13 @@ body {
 .nav-back {
     background-color: darkolivegreen;
 }
+
+.my-name {
+    color: crimson;
+}
+
+.my-name a {
+    text-decoration: none;
+    color: crimson;
+    transition: all .4s ease;
+}
